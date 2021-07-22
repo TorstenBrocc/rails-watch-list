@@ -1,3 +1,6 @@
 [submodule "spec"]
 	path = spec
 	url = https://github.com/lewagon/fullstack-challenges-04-Rails-watch-list-specs.git
+[submodule "db/migrate/spec"]
+	path = db/migrate/spec
+	url = https://github.com/lewagon/fullstack-challenges-04-Rails-watch-list-specs.git
